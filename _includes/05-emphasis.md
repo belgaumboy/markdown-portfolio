@@ -1,1 +1,7 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+*GOD is great*
+_All GODs are great_
+
+**Man is humble**
+__Human kind is humble__
+
+_You **can** combine them_
